@@ -1,5 +1,5 @@
 import unittest
-import fact
+import function
     
     class TestFactorialMethods(unittest.TestCase):
     
